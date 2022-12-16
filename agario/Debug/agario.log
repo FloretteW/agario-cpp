@@ -1,0 +1,25 @@
+﻿  Jeu.cpp
+C:\Users\luenee\source\repos\agario\agario\Sources\Jeu.cpp(44,85): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\luenee\source\repos\agario\agario\Sources\Jeu.cpp(44,59): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\luenee\source\repos\agario\agario\Sources\Jeu.cpp(43,67): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\luenee\source\repos\agario\agario\Sources\Jeu.cpp(43,41): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\luenee\source\repos\agario\agario\Sources\Jeu.cpp(53,85): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\luenee\source\repos\agario\agario\Sources\Jeu.cpp(53,31): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\luenee\source\repos\agario\agario\Sources\Jeu.cpp(52,65): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\luenee\source\repos\agario\agario\Sources\Jeu.cpp(52,41): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+  Joueur.cpp
+C:\Users\luenee\source\repos\agario\agario\Sources\Joueur.cpp(48,27): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\luenee\source\repos\agario\agario\Sources\Joueur.cpp(47,37): warning C4244: 'argument' : conversion de 'const double' en 'float', perte possible de données
+C:\Users\luenee\source\repos\agario\agario\Sources\Joueur.cpp(47,21): warning C4244: 'argument' : conversion de 'const double' en 'float', perte possible de données
+C:\Users\luenee\source\repos\agario\agario\Sources\Joueur.cpp(46,23): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\luenee\source\repos\agario\agario\Sources\Joueur.cpp(46,14): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  main.cpp
+C:\Users\luenee\source\repos\agario\agario\Sources\main.cpp(11,16): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  Plateau.cpp
+C:\Users\luenee\source\repos\agario\agario\Sources\Plateau.cpp(46,18): warning C4244: '=' : conversion de 'double' en 'Uint8', perte possible de données
+C:\Users\luenee\source\repos\agario\agario\Sources\Plateau.cpp(47,18): warning C4244: '=' : conversion de 'double' en 'Uint8', perte possible de données
+C:\Users\luenee\source\repos\agario\agario\Sources\Plateau.cpp(48,18): warning C4244: '=' : conversion de 'double' en 'Uint8', perte possible de données
+C:\Users\luenee\source\repos\agario\agario\Sources\Plateau.cpp(110,63): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\luenee\source\repos\agario\agario\Sources\Plateau.cpp(110,54): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+  Génération de code en cours...
+  agario.vcxproj -> C:\Users\luenee\source\repos\agario\Debug\agario.exe
